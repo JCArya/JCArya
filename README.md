@@ -5,18 +5,18 @@
  
  
  
- 🧍How to reach me:
+<!--  🧍How to reach me:
  </br></br>
  <a href="https://www.linkedin.com/in/abhisheknegi1289198511/" target="blank"> <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="https:/www.linkedin.com/in/abhisheknegi1289198511/" /></a>
  <a href="discordapp.com/users/1025373550577725450" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="discordapp.com/users/1025373550577725450" /></a>
 <a href="https://www.instagram.com/n.egi_25/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" /></a>
-<a href="https://twitter.com/hey_negi" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" /></a>
+<a href="https://twitter.com/hey_negi" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" /></a> -->
 
 # :briefcase: Work
 
 - [Employee Portal](https://github.com/ColoredCow/portal) - A hub-and-spoke platform for organization operations.
 
-[![Jagdish Arya github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JCArya&theme=react-dark)](https://github.com/JCArya/github-readme-activity-graph)
+[![Jagdish Arya's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JCArya&theme=react-dark)](https://github.com/JCArya/github-readme-activity-graph)
 
 <div>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
